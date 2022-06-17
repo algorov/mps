@@ -1,0 +1,1 @@
+### Schemes of end devices, practice for the construction of circuits that make up the processor, in the program Lozhisim
